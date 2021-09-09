@@ -1,12 +1,12 @@
 {
   "response": [    
 {
-      "datetime": 1629460479,
-      "filename": "PixelBlaster_2.5_RMX1851-11.0-20210820-1154-OFFICIAL.zip",
-      "id": "a59ec8a5a31f6a89544076b47424b3b9",
+      "datetime": 1631169769,
+      "filename": "PixelBlaster_3.0_RMX1851-11.0-20210909-0642-OFFICIAL.zip",
+      "id": "7c6a494692d98e6dbc01262778895d2c",
       "romtype": "OFFICIAL",  
-      "size": 1705795322,
-      "url": "https://index.thetablaster.workers.dev/0:/PixelBlaster_2.5_RMX1851-11.0-20210820-1154-OFFICIAL.zip",
+      "size": 1707381447,
+      "url": "https://github.com/PixelBlaster-Releases/RMX1851/releases/download/v3.0/PixelBlaster_3.0_RMX1851-11.0-20210909-0642-OFFICIAL.zip",
       "version": "eleven"
     }
         ]
