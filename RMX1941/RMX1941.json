@@ -1,12 +1,12 @@
 {
     "response": [    
   {
-        "datetime": 1631263285,
-        "filename": "PixelBlaster_3.0_RMX1941-11.0-20210910-0844-OFFICIAL.zip",
-        "id": "edb5765bf81d025f47f372308f84d31d301c3f982d65a424f7e3c763cdfa047e",
+        "datetime": 1634231968,
+        "filename": "PixelBlaster_3.0_RMX1941-11.0-20211014-1719-OFFICIAL-VANILLA.zip",
+        "id": "044e715ac0489309d6cddda2f2f820b4606b80c4f53fe6c6ce32442253c48075",
         "romtype": "OFFICIAL",  
-        "size": 1379383551,
-        "url": "https://github.com/PixelBlaster-Releases/RMX1941/releases/download/v3.0/PixelBlaster_3.0_RMX1941-11.0-20210910-0844-OFFICIAL.zip",
+        "size": 775255154,
+        "url": "https://github.com/PixelBlaster-Releases/RMX1941/releases/download/v3.5/PixelBlaster_3.0_RMX1941-11.0-20211014-1719-OFFICIAL-VANILLA.zip",
         "version": "eleven"
       }
           ]
