@@ -1,12 +1,12 @@
 {
   "response": [    
 {
-      "datetime": 1631286108,
-      "filename": "PixelBlaster_3.0_RMX1971-11.0-20210910-1501-OFFICIAL.zip",
-      "id": "66a930edf7465efae1c1b51e5cdd32cf",
+      "datetime": 1634432272,
+      "filename": "PixelBlaster_3.5_RMX1971-11.0-20211017-0058-OFFICIAL-VANILLA.zip",
+      "id": "50a3106efa432c7bb9953f3d30957c77101324b46e6b239898d6475494acd8b3",
       "romtype": "OFFICIAL",  
-      "size": 1706559109,
-      "url": "https://github.com/PixelBlaster-Releases/RMX1971/releases/download/v3.0/PixelBlaster_3.0_RMX1971-11.0-20210910-1501-OFFICIAL.zip",
+      "size": 1134402297,
+      "url": "https://github.com/PixelBlaster-Releases/RMX1971/releases/download/v3.5/PixelBlaster_3.5_RMX1971-11.0-20211017-0058-OFFICIAL-VANILLA.zip",
       "version": "eleven"
     }
         ]
